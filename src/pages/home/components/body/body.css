@@ -1,0 +1,16 @@
+.body{
+    display: flow-root;
+    height: 100%;
+    padding: 0px 20vh 0 20vh;
+    padding-top: 80px;
+    background-color: #EAEAEA;
+    padding-bottom: 20vh;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 48% 48%;
+    grid-gap: 3%;
+    place-content: center;
+    margin-top: 80px;
+}
