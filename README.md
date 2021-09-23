@@ -1,3 +1,7 @@
+# Live Demo
+
+https://amith-k-a.github.io/my-app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
